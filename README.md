@@ -14,10 +14,11 @@ learning C; it's not that I can't learn it--I've learned many other
 languages--I simply give up after a while. I've started working with the
 Teensy and that has rekindled my interest in C.
 
-I read the first chapter of "Seven Languages in Seven
-Weeks"--Ruby--without doing the exercises and I didn't "get it." This
-was my first experience with Ruby and I wasn't impressed. I felt I'd
-robbed myself so I went back and did the exercises. Sure enough I
+The following is my reasoning for spending time typing in examples and
+doing the exercises. I read the first chapter of "Seven Languages in
+Seven Weeks"--Ruby--without doing the exercises and I didn't "get it."
+That was my first experience with Ruby and I wasn't impressed. I felt
+I'd robbed myself so I went back and did the exercises. Sure enough I
 started to understand what was cool about Ruby. By the time I got to
 Clojure I was doing the exercises regularly and Clojure clicked right
 away. Compared to Clojure, Ruby looked like a "good try", but rather silly.
